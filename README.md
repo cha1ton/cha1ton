@@ -6,7 +6,7 @@
 
 Construyo aplicaciones web, APIs REST y soluciones que simplifican procesos reales.
 
-📍 Lima, Perú &nbsp;·&nbsp; 🎓 Egresado de Diseño y Desarrollo de Software (TECSUP)
+📍 Lima, Perú &nbsp;·&nbsp; 🎓 Diseño y Desarrollo de Software | TECSUP
 
 [![GitHub](https://img.shields.io/badge/GitHub-cha1ton-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/cha1ton)
 [![Email](https://img.shields.io/badge/Email-Contáctame-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:chaltonmercado07@gmail.com)
@@ -25,6 +25,7 @@ Soy desarrollador de software con experiencia profesional construyendo plataform
 - 🤖 He integrado **modelos de IA mediante APIs** en aplicaciones web.
 - ⚙️ También trabajo con **despliegues en producción** y **automatización de procesos**.
 - 📚 Me interesa seguir mejorando la calidad, mantenibilidad y utilidad del software que desarrollo.
+- ☁️ Experiencia práctica con **AWS**, incluyendo configuración de instancias EC2, redes VPC, subredes, grupos de seguridad y despliegue de aplicaciones en servidores Linux.
 
 ## 🛠️ Tecnologías
 
@@ -34,30 +35,41 @@ Soy desarrollador de software con experiencia profesional construyendo plataform
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-149ECA?style=flat-square&logo=react&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 
-**Backend y bases de datos**
+**Backend**
 
 ![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+
+**Bases de datos**
+
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square)
 
-**Herramientas y despliegue**
+**Cloud, DevOps y herramientas**
 
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-000000?style=flat-square&logo=render&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
 
-<details>
-<summary><strong>Otras tecnologías con las que tengo conocimientos</strong></summary>
+**Desarrollo móvil**
 
-Angular · Vue.js · NestJS · PHP · Laravel · Python/Django · SQL Server · AWS · Flutter/Dart
-
-</details>
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
 
 ## 🚀 Proyecto destacado
 
